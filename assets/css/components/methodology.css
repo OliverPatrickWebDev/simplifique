@@ -1,0 +1,11 @@
+#methodology {
+    background-color: var(--secondary);
+}
+
+#methodology h3 {
+    color: var(--text-primary);
+}
+
+#methodology p {
+    font-size: 1rem;
+}

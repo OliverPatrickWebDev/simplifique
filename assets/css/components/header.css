@@ -1,0 +1,18 @@
+header {
+    background-color: var(--secondary);
+    width: 100%;
+    height: 100vh;
+}
+
+header h1 {
+    color: var(--text-primary);
+}
+
+header p {
+    color: var(--text-secondary);
+}
+
+header img {
+    width: 30rem;
+    height: 30rem;
+}

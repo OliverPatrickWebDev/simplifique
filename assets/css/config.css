@@ -1,0 +1,11 @@
+:root {
+    --primary: #FFB92A;
+    --secondary: #000;
+    --alternative: #fff;
+    --light: #d7d7d7;
+    --medium: #878787;
+    --dark: #333333;
+    --text-primary: #FFB92A;
+    --text-secondary: #fff;
+    --text-default: #000;
+}
